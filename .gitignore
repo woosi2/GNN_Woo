@@ -1,5 +1,10 @@
+# User-defined .gitignore(example)
+*.zip
+*.csv
+*.model
+
 # Byte-compiled / optimized / DLL files
-__pycache__/
+__pycache__/   # /가 들어가면 폴더를 의미(폴더 숨기고 싶을 때)
 *.py[cod]
 *$py.class
 
